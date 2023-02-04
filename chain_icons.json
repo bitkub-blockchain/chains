@@ -47,6 +47,14 @@
     "format": "png"
   }]
 }, {
+  "name": "tcg_verse",
+  "icons": [{
+    "url": "ipfs://bafkreidg4wpewve5mdxrofneqblydkrjl3oevtgpdf3fk3z3vjqam6ocoe",
+    "width": 350,
+    "height": 350,
+    "format": "png"
+  }]
+}, {
   "name": "SX",
   "icons": [{
     "url": "ipfs://QmSXLXqyr2H6Ja5XrmznXbWTEvF2gFaL8RXNXgyLmDHjAF",
@@ -93,6 +101,14 @@
     "width": 390,
     "height": 390,
     "format": "svg"
+  }]
+}, {
+  "name": "chiliz",
+  "icons": [{
+    "url": "ipfs://QmYV5xUVZhHRzLy7ie9D8qZeygJHvNZZAxwnB9GXYy6EED",
+    "width": 400,
+    "height": 400,
+    "format": "png"
   }]
 }, {
   "name": "omlira",
@@ -431,6 +447,14 @@
     "format": "png"
   }]
 }, {
+  "name": "core",
+  "icons": [{
+    "url": "ipfs://QmeTQaBCkpbsxNNWTpoNrMsnwnAEf1wYTcn7CiiZGfUXD2",
+    "width": 200,
+    "height": 217,
+    "format": "png"
+  }]
+}, {
   "name": "oneledger",
   "icons": [{
     "url": "ipfs://QmRhqq4Gp8G9w27ND3LeFW49o5PxcxrbJsqHbpBFtzEMfC",
@@ -551,6 +575,14 @@
     "format": "png"
   }]
 }, {
+  "name": "metad",
+  "icons": [{
+    "url": "ipfs://QmZyxS9BfRGYWWDtvrV6qtthCYV4TwdjLoH2sF6MkiTYFf",
+    "width": 1280,
+    "height": 1280,
+    "format": "png"
+  }]
+}, {
   "name": "cem",
   "icons": [{
     "url": "ipfs://QmeNYqxR4nEk1v3DBXY3gjzYC1MSNCTmRvmjZ72inyzCFv",
@@ -589,6 +621,22 @@
     "width": 48,
     "height": 51,
     "format": "svg"
+  }]
+}, {
+  "name": "enuls",
+  "icons": [{
+    "url": "ipfs://QmYz8LK5WkUN8UwqKfWUjnyLuYqQZWihT7J766YXft4TSy",
+    "width": 26,
+    "height": 41,
+    "format": "svg"
+  }]
+}, {
+  "name": "atoshi",
+  "icons": [{
+    "url": "ipfs://QmfFK6B4MFLrpSS46aLf7hjpt28poHFeTGEKEuH248Tbyj",
+    "width": 200,
+    "height": 200,
+    "format": "png"
   }]
 }, {
   "name": "rangers",
@@ -652,6 +700,14 @@
     "url": "ipfs://QmTTamJ55YGQwMboq4aqf3JjTEy5WDtjo4GBRQ5VdsWA6U",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "xodex",
+  "icons": [{
+    "url": "ipfs://QmXt49jPfHUmDF4n8TF7ks6txiPztx6qUHanWmHnCoEAhW",
+    "width": 256,
+    "height": 256,
     "format": "png"
   }]
 }, {
@@ -775,6 +831,14 @@
     "format": "png"
   }]
 }, {
+  "name": "flacoin",
+  "icons": [{
+    "url": "ipfs://bafybeiadlvc4pfiykehyt2z67nvgt5w4vlov27olu5obvmryv4xzua4tae",
+    "width": 256,
+    "height": 256,
+    "format": "png"
+  }]
+}, {
   "name": "enter",
   "icons": [{
     "url": "ipfs://Qmb2UYVc1MjLPi8vhszWRxqBJYoYkWQVxDJRSmtrgk6j2E",
@@ -796,6 +860,14 @@
     "url": "ipfs://QmWb1gthhbzkiLdgcP8ccZprGbJVjFcW8Rn4uJjrw4jd3B",
     "width": 200,
     "height": 200,
+    "format": "png"
+  }]
+}, {
+  "name": "FastexChain",
+  "icons": [{
+    "url": "ipfs://QmaQMapSRYPbxU2ivtrovYX8YRW7S19hVTutN4NW55C7hx",
+    "width": 3001,
+    "height": 3001,
     "format": "png"
   }]
 }, {
@@ -1583,6 +1655,14 @@
     "format": "png"
   }]
 }, {
+  "name": "shardeum",
+  "icons": [{
+    "url": "ipfs://Qma1bfuubpepKn7DLDy4NPSKDeT3S4VPCNhu6UmdGrb6YD",
+    "width": 609,
+    "height": 533,
+    "format": "png"
+  }]
+}, {
   "name": "lucky",
   "icons": [{
     "url": "ipfs://bafkreidmvcd5i7touug55hj45mf2pgabxamy5fziva7mtx5n664s3yap6m",
@@ -1596,6 +1676,14 @@
     "url": "ipfs://Qmf5qevPZRSMA5JmE234KqsdRY9KWC1zEHbvmCkxhkgpzf",
     "width": 400,
     "height": 400,
+    "format": "png"
+  }]
+}, {
+  "name": "saakuru",
+  "icons": [{
+    "url": "ipfs://QmduEdtFobPpZWSc45MU6RKxZfTEzLux2z8ikHFhT8usqv",
+    "width": 1024,
+    "height": 1024,
     "format": "png"
   }]
 }, {
@@ -1764,6 +1852,14 @@
     "url": "ipfs://bafkreiec34ik3glrm5jrzafdytvu4kxdsrxhqmagbe27fytdcuzkhoooay",
     "width": 512,
     "height": 512,
+    "format": "png"
+  }]
+}, {
+  "name": "constachain",
+  "icons": [{
+    "url": "ipfs://QmfQ1yae6uvXgBSwnwJM4Mtp8ctH66tM6mB1Hsgu4XvsC9",
+    "width": 2000,
+    "height": 2000,
     "format": "png"
   }]
 }, {
